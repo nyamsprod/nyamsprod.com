@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "League\Url 4 is out"
+title: "League\\Url 4 is out"
 date: "2015-09-23"
 categories: 
   - "web"

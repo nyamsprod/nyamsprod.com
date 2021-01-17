@@ -27,7 +27,7 @@ While I pointed out in the tweet that this new release is PHP7 only, the main se
 
 By splitting the main package into smaller packages the end user can now select the packages he/she really more easily. For instance, if you already are using a PSR-7 `UriInterface` compliant object, you only need to require the `league\uri-manipulations` to perform the following operation.
 
-{% gist 48814c42143a27b9b9491c3c76fa74cb uri-middleware.ph %}
+{% gist 48814c42143a27b9b9491c3c76fa74cb uri-middleware.php %}
 
 As a side note, this change also enables easier maintenance as bugs can be more quickly fix in each separate package.
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Handling URLs with League\URL"
+title: "Handling URLs with League\\URL"
 date: "2014-06-25"
 categories: 
   - "web"
@@ -18,7 +18,7 @@ A basic PHP installation comes with 3 powerful functions:
 - `parse_str` that does the opposite and given a query string transforms it into a PHP array
 - And last but not least `parse_url` to parse a given URL into its individual components
 
-All theses functions work fine but more than often you end up in situations when you have to add extra codes to completely deal with URLs. That's when `League\URL` comes handy.
+All these functions work fine but more than often you end up in situations when you have to add extra codes to completely deal with URLs. That's when `League\URL` comes handy.
 
 I'm happy to say that a huge work was done behind the scene to clean up the code since the move and the result is a completely new library easier to use. The new library now:
 
