@@ -1,9 +1,5 @@
-.idea
 _site
-.bundle
-vendor
+.sass-cache
 .jekyll-metadata
-node_modules
-yarn-error.log
 Gemfile.lock
-package-lock.json
+vendor
