@@ -1,0 +1,9 @@
+.idea
+_site
+.bundle
+vendor
+.jekyll-metadata
+node_modules
+yarn-error.log
+Gemfile.lock
+package-lock.json
